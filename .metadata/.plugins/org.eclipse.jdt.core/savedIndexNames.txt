@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+D:\Harbinger\Phase-II\Project Code\Angular and Java\tyss_hg_tellmystore_java_angular\solution template\back-end\tell-my-story\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
